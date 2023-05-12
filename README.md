@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **samyakj.tech@gmail.com**
 
-- ⚡ Fun fact: **I think I am not funny**
+- ⚡ Fun fact: **I think I am funny**
 
 - 🎨 I design too [samyyaak](https://www.behance.net/samyyaakk)
 
