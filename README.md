@@ -19,7 +19,7 @@
 
 - 🎨 I design too [samyyaak](https://www.behance.net/samyyaakk)
 
-- 📷 I am a photographer [SJ Photography](https://samyakj.tech)
+- 📷 I am a photographer too
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
