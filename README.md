@@ -25,31 +25,47 @@
   <a href="https://linkedin.com/in/samyyaakk" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://instagram.com/samyyaakk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="30" height="30"/>
-  </a>
-  <a href="https://www.behance.net/samyyaakk" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behance" width="30" height="30"/>
-  </a>
-  <a href="https://hashnode.com/@samyyaakk" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="30" height="30"/>
-  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/> 
-  <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="AWS" width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="30" height="30"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="Python" width="30" height="30"/> 
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="40" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="30" height="30"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="30" height="30"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="30" height="30"/>
-</p>
+
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+#### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+#### 🧰 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+#### 📈 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![NewRelic](https://img.shields.io/badge/NewRelic-008C99?style=flat&logo=new-relic&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+
+#### 🧠 LLMs & AI Integration
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white) <!-- Replace with actual SVG or badge when available -->
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### 🧪 Others
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)
+
 
 ---
 
