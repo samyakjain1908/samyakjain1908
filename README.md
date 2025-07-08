@@ -69,17 +69,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samyakjain1908&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samyakjain1908&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakjain1908" alt="GitHub Streak" />
-</p>
+> “I prefer building infrastructure over bragging about it.”
+> — Samyak Jain
 
----
 
-✨ _Always building. Always learning._
